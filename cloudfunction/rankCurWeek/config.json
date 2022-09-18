@@ -1,0 +1,9 @@
+{
+  "triggers": [
+    {
+      "name": "rankCurWeek",
+      "type": "timer",
+      "config": "0 25 1 * * * *"
+    }
+  ]
+}

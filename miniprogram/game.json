@@ -1,0 +1,12 @@
+{
+  "deviceOrientation": "portrait",
+  "navigateToMiniProgramAppIdList": [
+    "wxf7d54e9542ba5cb9"
+  ],
+  "subpackages": [
+    {
+      "name": "GameMain1",
+      "root": "js1/"
+    }
+  ]
+}

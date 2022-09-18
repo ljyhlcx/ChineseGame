@@ -1,0 +1,9 @@
+{
+  "triggers": [
+    {
+      "name": "rankAllScore",
+      "type": "timer",
+      "config": "0 0 * * * * *"
+    }
+  ]
+}

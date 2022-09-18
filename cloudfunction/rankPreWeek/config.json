@@ -1,0 +1,9 @@
+{
+  "triggers": [
+    {
+      "name": "rankPreWeek",
+      "type": "timer",
+      "config": "0 30 1 * * SUN *"
+    }
+  ]
+}

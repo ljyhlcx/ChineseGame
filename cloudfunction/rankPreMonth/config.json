@@ -1,0 +1,9 @@
+{
+  "triggers": [
+    {
+      "name": "rankPreMonth",
+      "type": "timer",
+      "config": "0 55 0 1 * * *"
+    }
+  ]
+}
